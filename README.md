@@ -1,1 +1,1 @@
-# Diageo
+ Dailyhunder news app
